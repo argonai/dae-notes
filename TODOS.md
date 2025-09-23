@@ -1,0 +1,3 @@
+- read articles for GD
+- programming tegen next lab
+- math
